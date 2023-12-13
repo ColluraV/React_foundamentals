@@ -12,9 +12,7 @@ return(
     <li>scegliere se usare Javascript o TypeScript</li>
   </ul>
 
-  <p>
-    Edit <code>src/App.jsx</code> and save to test HMR
-  </p>
+
 </div>
 </main>
 )} 

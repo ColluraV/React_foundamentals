@@ -1,0 +1,1 @@
+esercizio per migliorare l'utilizzo dei componenti in react tramite props

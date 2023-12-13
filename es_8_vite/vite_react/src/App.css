@@ -61,7 +61,11 @@ nav>h1{
   color: rgb(255, 0, 47);
 }
 .lista{
-  color: greenyellow;
+  color: lightgray;
+}
+.lista>::marker{
+  color: aqua;
+  font-size: 1.5rem;
 }
 
 .read-the-docs {
